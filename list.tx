@@ -1,2 +1,4 @@
-*.youtube.com/*
-*.bankofamerica.com/*
+youtube.com
+*.youtube.com
+bankofamerica.com
+*.bankofamerica.com
